@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: aliceblue;
+    background-color: aqua;
+    
+    height: 100%;
+}
+.caixa{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 3rem;
+    text-decoration: none;
+    
+}   
+.form-group{
+    
+}
+
+.texto{
+    font-size: 0.8em;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    
+}
+
+img{
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    padding: 3px;
+    margin-bottom: 2rem;
+}
+
+.fullScreen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
