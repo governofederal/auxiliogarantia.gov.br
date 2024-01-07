@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: space-evenly;
     flex-direction: column;
-    background-color: aliceblue;
+    background-color: antiquewhite;
     
     
     height: 100%;
@@ -19,9 +19,6 @@ body{
     text-decoration: none;
     
 }   
-.form-group{
-    
-}
 
 .texto{
     font-size: 0.8em;
